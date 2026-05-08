@@ -4,7 +4,7 @@
 
 # Geoinformatics, GIS, Remote Sensing and Automation: My passion
 
-Welcome to my GitHub Profile! I am a Geoinformatics enthusiast with a passion for GIS, Remote Sensing, and automation. As a graduate in Geoinformatics, I have developed a strong foundation in GIS, Remote Sensing and Geoinformatics theory and practice. My experience has allowed me to specialize in using Python to create custom toolboxes and script tools for ArcGIS and QGIS, as well as creating maps and analyzing satellite imagery using the latest mapping technologies. I am always exploring new ways to automate GIS workflows, and I am excited to share my work and collaborate with others in the community.
+Welcome to my GitHub Profile! I am a Geoinformatics enthusiast with a passion for GIS, Remote Sensing, and automation. As a graduate in GIS, I have developed a strong foundation in GIS, Remote Sensing and Geoinformatics theory and practice. My experience has allowed me to specialize in using Python to create custom toolboxes and script tools for ArcGIS and QGIS, as well as creating maps and analyzing satellite imagery using the latest mapping technologies. I am always exploring new ways to automate GIS workflows, and I am excited to share my work and collaborate with others in the community.
 
 ## Skills
 - Web GIS and web mapping
@@ -68,7 +68,7 @@ Welcome to my GitHub Profile! I am a Geoinformatics enthusiast with a passion fo
 - GIS Coordinator, Franchise Ready (Nov 2021 - Aug 2024)
 - GIS Associate, Greenage Services (Pvt.) Ltd. (Apr 2021 - Nov 2021)
 - Data Analyst Intern, Dinco Pakistan (Pvt.) Ltd. (Nov 2020 - Feb 2021)
-- Freelancer, Delivered 150+ projects (Jan 2020 - Present)
+- Freelancer, Delivered 200+ projects (Jan 2020 - Present)
 
 ## Education
 - Master of Geographic Information Systems (MGIS), University of Calgary (2024 - 2026)
