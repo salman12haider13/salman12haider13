@@ -64,11 +64,7 @@ Welcome to my GitHub Profile! I am a Geoinformatics enthusiast with a passion fo
 - Google Earth Engine project for NDVI analysis and zonal statistics.
 - Tools/skills: Google Earth Engine, JavaScript, NDVI, remote sensing, vegetation analysis, zonal statistics.
 
-## Experience
-- GIS Coordinator, Franchise Ready (Nov 2021 - Aug 2024)
-- GIS Associate, Greenage Services (Pvt.) Ltd. (Apr 2021 - Nov 2021)
-- Data Analyst Intern, Dinco Pakistan (Pvt.) Ltd. (Nov 2020 - Feb 2021)
-- Freelancer, Delivered 200+ projects (Jan 2020 - Present)
+
 
 ## Education
 - Master of Geographic Information Systems (MGIS), University of Calgary (2024 - 2026)
